@@ -102,6 +102,7 @@ Difficult conversations take place when there are strong emotions, opposing opin
 ```
 
 |  |
+| --- |
 
 
 ## References
