@@ -352,7 +352,66 @@ See Crucial Accountability chapter 2 section Consider the Six Sources of Influen
 
 ### Make It Easy
 
+How can you address the ability barriers previously identified?
+
+|   | ABILITY |
+| --- | --- |
+| **PERSONAL** | <img width="441" height="1"><br>2<br><br>  |
+| **SOCIAL** | <img width="441" height="1"><br>4<br><br>  |
+| **STRUCTURAL** | <img width="441" height="1"><br>6<br><br>  |
+
+* Personal Ability
+
+```
+
+
+```
+
+* Social Ability
+
+```
+
+
+```
+* Structural Ability
+
+```
+
+
+```
+
+
 ### Make It Motivating
+
+How can you help the other person understand the natural consequences of their current behavior?
+
+|   | MOTIVATION |
+| --- | --- |
+| **PERSONAL** | <img width="441" height="1"><br>1<br><br>  |
+| **SOCIAL** | <img width="441" height="1"><br>3<br><br>  |
+| **STRUCTURAL** | <img width="441" height="1"><br>5<br><br>  |
+
+* Personal Motivation
+
+```
+
+
+```
+
+* Social Motivation
+
+```
+
+
+```
+
+* Structural Motivation
+
+```
+
+
+```
+
 
 ### Move to Action
 
