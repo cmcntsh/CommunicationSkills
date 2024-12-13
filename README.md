@@ -114,6 +114,80 @@ Difficult conversations take place when there are strong emotions, opposing opin
 
 ```
 
+* Condense your concern down to a single sentence.
+
+```
+
+
+```
+
+### Master My Stories
+
+* What stories are you telling yourself about the situation or person? (victim, villain, helpless)
+
+```
+
+
+```
+
+* Challenge negative stories by filling in with more analysis.
+  * What is my role?
+ 
+
+```
+
+
+```
+
+  * Why would a reasonable person do this?
+
+```
+
+
+```
+
+  * What should I do right now to move toward what I want?
+
+```
+
+
+```
+
+### Start with Heart
+
+Make sure you have proper intent.
+
+* What do I want for myself?
+
+
+```
+
+
+```
+
+* What do I want for the other person?
+
+
+```
+
+
+```
+
+* What do I want for the relationship?
+
+
+```
+
+
+```
+
+* What do I want for the organization?
+
+
+```
+
+
+```
 
 ## References
 
