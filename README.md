@@ -93,9 +93,11 @@ As noted by Bolton (1986).
 
 ## Difficult Conversations
 
-Difficult conversations take place when there are strong emotions, opposing opinions, or high stakes involved (Grenny et. al, 2022; Patterson et. al., 2013). Misunderstandings get resolved sooner in healthy relationships compared to unhealthy ones (Grenny et. al., 2022). Skills for difficult conversations are organized around a conversation planner (Grenny et. al, 2022; Patterson et. al., 2013).
+Difficult conversations take place when there are strong emotions, opposing opinions, or high stakes involved (Grenny et. al, 2022; Patterson et. al., 2013). Misunderstandings get resolved sooner in healthy relationships compared to unhealthy ones (Grenny et. al., 2022). Skills for difficult conversations are organized around a conversation planner (Grenny et. al, 2022; Patterson et. al., 2013). I attended a Crucial Conversations training. The steps to plan a crucial conversation were presented in a different order than what they appear in the book. I'll list the steps in the order presented in the training, but I'll list the relevant book chapter under each section for easy reference.
 
 ### Get Unstuck
+
+See Crucial Conversations 3rd Edition chapter 3.
 
 * Who are you speaking with? What is the topic?
 
@@ -122,6 +124,8 @@ Difficult conversations take place when there are strong emotions, opposing opin
 ```
 
 ### Master My Stories
+
+See Crucial Conversations 3rd Edition chapter 5.
 
 * What stories are you telling yourself about the situation or person? (victim, villain, helpless)
 
@@ -154,6 +158,8 @@ Difficult conversations take place when there are strong emotions, opposing opin
 ```
 
 ### Start with Heart
+
+See Crucial Conversations 3rd Edition chapter 4.
 
 Make sure you have proper intent.
 
@@ -191,13 +197,14 @@ Make sure you have proper intent.
 
 * How can you share your good intent at the start of the conversation?
 
-
 ```
 
 
 ```
 
 ### STATE My Path
+
+See Crucial Conversations 3rd Edition chapter 8.
 
 * Share your facts
 * Tell your story
@@ -210,6 +217,117 @@ Make sure you have proper intent.
 | <img width="441" height="1"><br><br><br> | <img width="441" height="1"><br><br><br> | <img width="441" height="1"><br><br><br> |
 
 ### Make It Safe
+
+See Crucial Conversations 3rd Edition chapter 7.
+
+* Think about how the other person might misunderstand your intent. What is a contrasting statement you could use?
+
+```
+
+
+```
+
+
+
+### Learn to Look
+
+See Crucial Conversations 3rd Edition chapter 6.
+
+* How will you manage your style under stress (silence, verbal violence, both) in this conversation?
+
+```
+
+
+```
+
+
+
+### Seek Mutual Purpose
+
+See Crucial Conversations 3rd Edition chapter 7.
+
+* In what ways are you at odds with the other person? What is your purpose? What do you think their purpose is? How could you seek mutual purpose?
+
+```
+
+
+```
+
+
+
+### Explore Others' Paths
+
+See Crucial Conversations 3rd Edition chapter 9.
+
+* How can you use AMPP (ask, mirror, paraphrase, prime) to help the other person join you in a discussion?
+
+```
+
+
+```
+
+* What feedback does the other person have? How can you use ABC (agree, build, compare)?
+
+```
+
+
+```
+
+
+
+### Move to Action
+
+See Crucial Conversations 3rd Edition chapter 11.
+
+* Who:
+
+```
+
+
+```
+
+* Will do what:
+
+```
+
+
+```
+
+* By when:
+
+```
+
+
+```
+
+* How will you follow up?
+
+```
+
+
+```
+
+## Addressing Performance Gaps
+
+The steps to have a conversation about unmet expectations are similar to the steps to have a crucial conversation with some substitutions most of the way through the process. I'll like to the crucial conversation steps mentioned above where they match and then add the additional steps in this section.
+
+### Get Unstuck
+
+### Master My Stories
+
+### Start With Heart
+
+### State My Path
+
+### Make It Safe
+
+### Diagnose
+
+### Make It Easy
+
+### Make It Motivating
+
+### Move to Action
 
 ## References
 
