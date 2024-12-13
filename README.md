@@ -189,6 +189,28 @@ Make sure you have proper intent.
 
 ```
 
+* How can you share your good intent at the start of the conversation?
+
+
+```
+
+
+```
+
+### STATE My Path
+
+* Share your facts
+* Tell your story
+* Ask for others' paths
+* Talk tentatively
+* Encourage testing
+
+| My Facts | My Story | The Questions I'll Ask |
+| --- | --- | --- |
+| <br><br><br> | <br><br><br> | <br><br><br> |
+
+### Make It Safe
+
 ## References
 
 * Bolton, R. (1986). People Skills. Touchstone.
