@@ -207,7 +207,7 @@ Make sure you have proper intent.
 
 | My Facts | My Story | The Questions I'll Ask |
 | --- | --- | --- |
-| <br><br><br> | <br><br><br> | <br><br><br> |
+| <img width="441" height="1"><br><br><br> | <img width="441" height="1"><br><br><br> | <img width="441" height="1"><br><br><br> |
 
 ### Make It Safe
 
