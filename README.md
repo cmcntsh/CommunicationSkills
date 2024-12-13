@@ -93,7 +93,9 @@ As noted by Bolton (1986).
 
 ## Difficult Conversations
 
-Difficult conversations take place when there are strong emotions, opposing opinions, or high stakes involved (Grenny et. al, 2022; Patterson et. al., 2013). Skills for difficult conversations are organized around a conversation planner (Grenny et. al, 2022; Patterson et. al., 2013).
+Difficult conversations take place when there are strong emotions, opposing opinions, or high stakes involved (Grenny et. al, 2022; Patterson et. al., 2013). Misunderstandings get resolved sooner in healthy relationships compared to unhealthy ones (Grenny et. al., 2022). Skills for difficult conversations are organized around a conversation planner (Grenny et. al, 2022; Patterson et. al., 2013).
+
+### Get Unstuck
 
 * Who are you speaking with? What is the topic?
 
@@ -102,6 +104,15 @@ Difficult conversations take place when there are strong emotions, opposing opin
 
 ```
 
+* Decide if you should focus on content, pattern, or relationship.
+  * Content is usually a single specific event.
+  * Pattern is usually things that happen repeatedly.
+  * Relationship issues start to impact trust and respect.
+
+```
+
+
+```
 
 
 ## References
