@@ -91,6 +91,19 @@ As noted by Bolton (1986).
 * Aspects of love: acceptance, respect, empathy
 * Effect change: commit to using skills, select appropriate situations, persist despite occasional failure, prepare others for the change
 
+## Difficult Conversations
+
+Difficult conversations take place when there are strong emotions, opposing opinions, or high stakes involved (Grenny et. al, 2022; Patterson et. al., 2013). Skills for difficult conversations are organized around a conversation planner (Grenny et. al, 2022; Patterson et. al., 2013).
+
+* Who are you speaking with? What is the topic?
+
+```
+
+```
+
+|  |
+
+
 ## References
 
 * Bolton, R. (1986). People Skills. Touchstone.
