@@ -313,21 +313,50 @@ The steps to have a conversation about unmet expectations are similar to the ste
 
 ### Get Unstuck
 
+See https://github.com/cmcntsh/CommunicationSkills#get-unstuck
+
 ### Master My Stories
+
+See https://github.com/cmcntsh/CommunicationSkills#master-my-stories
 
 ### Start With Heart
 
+See https://github.com/cmcntsh/CommunicationSkills#start-with-heart
+
 ### State My Path
+
+See https://github.com/cmcntsh/CommunicationSkills#state-my-path
 
 ### Make It Safe
 
+See https://github.com/cmcntsh/CommunicationSkills#make-it-safe
+
 ### Diagnose
+
+See Crucial Accountability chapter 2 section Consider the Six Sources of Influence
+
+* Fill in the sources of influence.
+
+|   | MOTIVATION | ABILITY |
+| --- | --- | --- |
+| **PERSONAL** | <img width="441" height="1"><br>1<br><br>  | <img width="441" height="1"><br>2<br><br>  |
+| **SOCIAL** | <img width="441" height="1"><br>3<br><br>  | <img width="441" height="1"><br>4<br><br>  |
+| **STRUCTURAL** | <img width="441" height="1"><br>5<br><br>  | <img width="441" height="1"><br>6<br><br>  |
+
+* What questions could you ask to help you diagnose the reasons behind the person's behavior?
+
+```
+
+
+```
 
 ### Make It Easy
 
 ### Make It Motivating
 
 ### Move to Action
+
+See https://github.com/cmcntsh/CommunicationSkills#move-to-action
 
 ## References
 
