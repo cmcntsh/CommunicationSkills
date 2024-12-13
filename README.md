@@ -323,9 +323,20 @@ See https://github.com/cmcntsh/CommunicationSkills#master-my-stories
 
 See https://github.com/cmcntsh/CommunicationSkills#start-with-heart
 
-### State My Path
+### STATE My Path
 
-See https://github.com/cmcntsh/CommunicationSkills#state-my-path
+See Crucial Conversations 3rd Edition, chapter 8.
+See Crucial Accountability, chapter 3.
+
+* Share your facts
+* Tell your story
+* Ask for others' paths
+* Talk tentatively
+* Encourage testing
+
+| My Facts | My Story | The Questions I'll Ask |
+| --- | --- | --- |
+| <img width="441" height="1"><br>Expected:<br>Observed:<br> | <img width="441" height="1"><br><br><br> | <img width="441" height="1"><br><br><br> |
 
 ### Make It Safe
 
@@ -343,7 +354,7 @@ See Crucial Accountability chapter 2 section Consider the Six Sources of Influen
 | **SOCIAL** | <img width="441" height="1"><br>3<br><br>  | <img width="441" height="1"><br>4<br><br>  |
 | **STRUCTURAL** | <img width="441" height="1"><br>5<br><br>  | <img width="441" height="1"><br>6<br><br>  |
 
-* What questions could you ask to help you diagnose the reasons behind the person's behavior?
+* What questions could you ask to help you diagnose the reasons behind the person's behavior? (See Crucial Accountability, Appendix B.)
 
 ```
 
@@ -351,6 +362,8 @@ See Crucial Accountability chapter 2 section Consider the Six Sources of Influen
 ```
 
 ### Make It Easy
+
+See Crucial Accountability, chapter 5.
 
 How can you address the ability barriers previously identified?
 
@@ -382,6 +395,8 @@ How can you address the ability barriers previously identified?
 
 
 ### Make It Motivating
+
+See Crucial Accountability, chapter 4.
 
 How can you help the other person understand the natural consequences of their current behavior?
 
@@ -415,7 +430,13 @@ How can you help the other person understand the natural consequences of their c
 
 ### Move to Action
 
+See Crucial Accountability, chapter 6 & chapter 7.
+
 See https://github.com/cmcntsh/CommunicationSkills#move-to-action
+
+### Tough Cases
+
+See Crucial Accountability, chapter 9
 
 ## References
 
