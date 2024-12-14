@@ -309,7 +309,7 @@ See Crucial Conversations 3rd Edition chapter 11.
 
 ## Addressing Performance Gaps
 
-The steps to have a conversation about unmet expectations are similar to the steps to have a crucial conversation with some substitutions most of the way through the process. I'll like to the crucial conversation steps mentioned above where they match and then add the additional steps in this section.
+The steps to have a conversation about unmet expectations are similar to the steps to have a crucial conversation with some substitutions most of the way through the process. I'll link to the crucial conversation steps mentioned above where they match and then add the additional steps in this section.
 
 ### Get Unstuck
 
